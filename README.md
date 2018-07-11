@@ -1,1 +1,1 @@
-Homework1
+Homework for McCarthy's Class
